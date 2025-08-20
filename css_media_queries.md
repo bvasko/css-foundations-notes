@@ -1,5 +1,16 @@
 # 20 CSS Media Query Examples
 
+### Generated with Claude.AI
+
+### Prompt:
+Provide 20 examples of css media queries. This should include a variety of use cases starting with basic common use cases, use cases that use "not" conditions and creative uses of media queries. Label the use cases as "basic", "intermediate" and "advanced" and how frequently the different use cases might be used
+
+### Response:
+I've created a comprehensive guide with 20 CSS media query examples, organized by complexity and frequency of use. The examples progress from essential responsive design patterns that you'll use daily, to intermediate accessibility and device-specific queries used regularly, and finally to advanced specialized queries used for edge cases.
+The basic queries (1-6) form the foundation of responsive web design and you'll encounter these in virtually every project. The intermediate queries (7-12) are becoming increasingly important as web accessibility and user preferences gain prominence. The advanced queries (13-20) showcase the full power of CSS media queries for handling very specific scenarios.
+
+Each example includes practical code and explains when you'd actually use it in real-world development. The frequency guide at the end helps you prioritize which media queries to learn first based on how often you're likely to need them.
+
 ## Basic Level (Used Very Frequently - Daily/Weekly)
 
 ### 1. Mobile-First Responsive Design
