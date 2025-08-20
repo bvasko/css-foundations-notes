@@ -1,6 +1,6 @@
 # 20 CSS Media Query Examples
 
-### Generated with Claude.AI
+#### Generated with Claude.AI
 
 ### Prompt:
 Provide 20 examples of css media queries. This should include a variety of use cases starting with basic common use cases, use cases that use "not" conditions and creative uses of media queries. Label the use cases as "basic", "intermediate" and "advanced" and how frequently the different use cases might be used
@@ -323,3 +323,69 @@ Each example includes practical code and explains when you'd actually use it in 
 - Feature detection: Rarely (progressive enhancement)
 - Ultra-wide/resolution-specific: Very rarely
 - Complex multi-condition: Very rarely (edge cases)
+
+## More CSS Media Query Prompts
+
+### Device & Hardware Focused Prompts
+
+"Show me CSS media queries for detecting and styling foldable/flexible screen devices"
+"Create media queries that target specific device capabilities like GPS, camera, or accelerometer"
+"Generate media queries for different input methods: stylus, voice control, eye-tracking"
+"Show examples of media queries that detect battery level or power-saving mode"
+"Create media queries for different display technologies: e-ink, OLED, LCD"
+
+### Accessibility & User Preference Prompts
+
+"Generate media queries for all accessibility preferences like high contrast, reduced transparency, forced colors"
+"Show me media queries that detect cognitive accessibility needs and learning disabilities"
+"Create examples for users with visual impairments: low vision, color blindness, light sensitivity"
+"Generate media queries for different reading preferences and dyslexia-friendly layouts"
+"Show media queries that adapt to user's attention span or focus capabilities"
+
+### Performance & Network Prompts
+
+"Create media queries that adapt based on network speed and data usage preferences"
+"Show examples of media queries for low-bandwidth or offline scenarios"
+"Generate media queries that detect device performance capabilities"
+"Create CSS that adapts based on available memory or processing power"
+"Show media queries for progressive enhancement based on device capabilities"
+
+### Environment & Context Prompts
+
+"Generate media queries that adapt to ambient light conditions or time of day"
+"Show examples for different usage contexts: presentation mode, kiosk mode, embedded widgets"
+"Create media queries for different interaction contexts: one-handed use, gloved hands, wet conditions"
+"Generate CSS that adapts to user's physical environment or posture"
+"Show media queries for different privacy levels or public vs private viewing"
+
+### Advanced Technical Prompts
+
+"Create complex media queries using CSS Grid and Container Queries together"
+"Show examples of nested and cascading media query logic"
+"Generate media queries that work with CSS custom properties and calculations"
+"Create responsive typography using media queries with clamp(), min(), max()"
+"Show media queries combined with CSS layers and cascade layers"
+
+Creative & Experimental Prompts
+
+"Generate artistic or creative media queries for interactive art projects"
+"Show media queries for gaming interfaces and interactive experiences"
+"Create media queries for augmented reality or mixed reality web apps"
+"Generate examples for voice-controlled interfaces using media queries"
+"Show media queries that create adaptive themes based on user behavior patterns"
+
+### Industry-Specific Prompts
+
+"Create media queries specifically for e-commerce and shopping experiences"
+"Show examples for educational platforms and learning management systems"
+"Generate media queries for healthcare applications and patient interfaces"
+"Create examples for financial applications with security considerations"
+"Show media queries optimized for news, media, and content consumption"
+
+### Future-Focused Prompts
+
+"Generate media queries using proposed or experimental CSS features"
+"Show examples that might work with future display technologies"
+"Create media queries for emerging input methods and interaction patterns"
+"Generate examples for next-generation web standards and capabilities"
+"Show media queries that prepare for upcoming accessibility guidelines"
